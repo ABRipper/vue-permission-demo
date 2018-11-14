@@ -1,11 +1,13 @@
 <template>
-  <div class="home">
-    Home
-  </div>
+  <div>管理页面</div>
 </template>
 
 <script>
 export default {
-  name: 'home'
+
 }
 </script>
+
+<style>
+
+</style>
